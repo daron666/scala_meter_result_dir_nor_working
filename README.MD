@@ -1,4 +1,4 @@
-##Scalameter resultDir example
+## Scalameter resultDir example
 
 Simple minimalistic project to show that `reports.resultDir` parameter doesn't work properly.
 
